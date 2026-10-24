@@ -215,6 +215,7 @@ official_results_data = {
     "2026-10-15": "45",
     "2026-10-16": "11",
     "2026-10-19": "08",
+    "2026-10-23": "25",
 }
 
 if "official_results" not in st.session_state:
